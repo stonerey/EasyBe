@@ -1,5 +1,5 @@
 # 原始工程
-[wangyang0210](https://github.com/wangyang0210/EasyBe)
+[wangyang0210](https://github.com/wangyang0210/EasyBe)<br/>
 感谢：[BNDong](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)
 
 # 发布v.1.1.0版本
