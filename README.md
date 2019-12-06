@@ -1,6 +1,9 @@
 # 原始工程
 [wangyang0210](https://github.com/wangyang0210/EasyBe)
 
+# 发布v.1.1.0版本
+解决 jquery.js 加载出错问题（网页第一次打开不显示）
+
 # EasyBe
 
 名字是`easy`和`beautiful`的结合，意味着这个主题是一个简单且美观的博客主题，`EasyBe`基于[博客园](https://www.cnblogs.com/wangyang0210/)目前所使用的皮肤和typecho的默认主题开发。
