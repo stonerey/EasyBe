@@ -585,7 +585,7 @@ function Base() {
     /**
      * 播放器初始化
      */
-    this.musicInit = function() {};
+    //this.musicInit = function() {};
 
     /**
      * 结束Loading页面
