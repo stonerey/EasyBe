@@ -65,7 +65,7 @@ function Base() {
         $('#menuWrap').optiscroll({ forceScrollbars: true, maxTrackSize: 20, preventParentScroll: true });
 
         // 音乐播放器初始化
-        bndongJs.musicInit();
+        //bndongJs.musicInit();
 
         // 滚动监听
         $(window).scroll( function() { bndongJs.scrollMonitor(); });
