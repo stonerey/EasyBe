@@ -2,6 +2,9 @@
 [wangyang0210](https://github.com/wangyang0210/EasyBe)<br/>
 感谢：[BNDong](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)
 
+# 发布v1.2.0版本
+该主题问题太多，打算弃用，不再更新
+
 # 发布v.1.1.0版本
 解决 jquery.js 加载出错问题（网页第一次打开不显示）
 
